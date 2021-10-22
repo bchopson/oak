@@ -12,7 +12,7 @@ let g:oak#palette.fur3    = '#FF9F76'
 let g:oak#palette.fur4    = '#D69060'
 let g:oak#palette.leaf1   = '#B990D5'
 let g:oak#palette.leaf2   = '#2CD3A4'
-let g:oak#palette.leaf3   = '#42BD7D'
+let g:oak#palette.leaf3   = '#59DCB7'
 let g:oak#palette.petal1  = '#FF7373'
 let g:oak#palette.petal2  = '#F0C54C'
 
